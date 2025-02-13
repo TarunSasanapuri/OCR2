@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+faiss-cpu
+langchain_community
+langchain_google_genai
+pyttsx3
+tempfile
+gtts
